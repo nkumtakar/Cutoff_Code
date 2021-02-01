@@ -1,5 +1,7 @@
 # Cutoff_Code
 Code you can run to find the optimal cutoff for a logistic regresion model in order to find the best profit gain or the best accuracy. 
+
+# Creation
 Created by Neel Kumtakar, Drexel Graduate Student, Jan 2020.
 Developed from Matthew J Scheider, Drexel PhD, Jan 2019
 
